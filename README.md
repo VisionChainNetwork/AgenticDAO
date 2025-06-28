@@ -1,2 +1,6 @@
 # AgenticDAO
 Agentic DAO for the Chromion 2025 - ChainLink Hackathon Submission
+
+# Approach
+We present a novel Agentic DAO system on Vision Chain, a next-generation Ethereum-compatible blockchain protocol featuring Dynamic DAG-based consensus, which enables scalable, low-latency coordination among autonomous AI agents powered by ElizaOS. This DAO framework goes beyond traditional human-governed organizations by allowing AI agents with verifiable decentralized identities (DIDs) to autonomously propose, vote, and act within a permissioned DAO, backed by smart contracts and real-time identity event handling.
+
